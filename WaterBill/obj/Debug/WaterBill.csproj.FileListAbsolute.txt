@@ -1,0 +1,11 @@
+C:\Users\TUAN ANH\programingcoHanh\WaterBill\WaterBill\bin\Debug\WaterBill.exe.config
+C:\Users\TUAN ANH\programingcoHanh\WaterBill\WaterBill\bin\Debug\WaterBill.exe
+C:\Users\TUAN ANH\programingcoHanh\WaterBill\WaterBill\bin\Debug\WaterBill.pdb
+C:\Users\TUAN ANH\programingcoHanh\WaterBill\WaterBill\obj\Debug\WaterBill.csproj.AssemblyReference.cache
+C:\Users\TUAN ANH\programingcoHanh\WaterBill\WaterBill\obj\Debug\WaterBill.Form1.resources
+C:\Users\TUAN ANH\programingcoHanh\WaterBill\WaterBill\obj\Debug\WaterBill.Properties.Resources.resources
+C:\Users\TUAN ANH\programingcoHanh\WaterBill\WaterBill\obj\Debug\WaterBill.csproj.GenerateResource.cache
+C:\Users\TUAN ANH\programingcoHanh\WaterBill\WaterBill\obj\Debug\WaterBill.csproj.CoreCompileInputs.cache
+C:\Users\TUAN ANH\programingcoHanh\WaterBill\WaterBill\obj\Debug\WaterBill.exe
+C:\Users\TUAN ANH\programingcoHanh\WaterBill\WaterBill\obj\Debug\WaterBill.pdb
+C:\Users\TUAN ANH\programingcoHanh\WaterBill\WaterBill\obj\Debug\WaterBill.Form2.resources
